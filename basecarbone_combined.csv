@@ -1,0 +1,128 @@
+Identifiant de l'élément;Nom base français;Unité français;Total poste non décomposé;Nom attribut français
+21818;Avion;kgCO2e/passager.km;0.209;50-100 sièges, trajet de 2000-3000 km
+21822;Avion;kgCO2e/passager.km;0.23;100-180 sièges, trajet de 3000-4000 km
+21821;Avion;kgCO2e/passager.km;0.209;180-250 sièges, trajet de 2000-3000 km
+21819;Avion;kgCO2e/passager.km;0.314;50-100 sièges, trajet de 1000-2000 km
+21817;Avion;kgCO2e/passager.km;0.258;100-180 sièges, trajet de 1000-2000 km
+21816;Avion;kgCO2e/passager.km;0.237;100-180 sièges, trajet de 2000-3000 km
+21815;Avion;kgCO2e/passager.km;0.216;180-250 sièges, trajet de 1000-2000 km
+21814;Avion;kgCO2e/passager.km;0.23;180-250 sièges, trajet de 3000-4000 km
+21813;Avion;kgCO2e/passager.km;0.251;plus de 250 sièges, trajet de 3000-4000 km
+21770;Avion;kgCO2e/passager.km;0.314;100-180 sièges, trajet de 0-1000 km
+21771;Avion;kgCO2e/passager.km;0.293;180-250 sièges, trajet de 0-1000 km
+21781;Avion;kgCO2e/passager.km;0.293;100-180 sièges, trajet de 4000-5000 km
+21782;Avion;kgCO2e/passager.km;0.307;180-250 sièges, trajet de 4000-5000 km
+21783;Avion;kgCO2e/passager.km;0.258;plus de 250 sièges, trajet de 4000-5000 km
+21784;Avion;kgCO2e/passager.km;0.286;100-180 sièges, trajet de 5000-6000 km
+21785;Avion;kgCO2e/passager.km;0.23;180-250 sièges, trajet de 5000-6000 km
+21786;Avion;kgCO2e/passager.km;0.223;plus de 250 sièges, trajet de 5000-6000 km
+21787;Avion;kgCO2e/passager.km;0.223;180-250 sièges, trajet de 6000-7000 km
+21788;Avion;kgCO2e/passager.km;0.209;plus de 250 sièges, trajet de 6000-7000 km
+21790;Avion;kgCO2e/passager.km;0.209;plus de 250 sièges, trajet de 7000-8000 km
+21791;Avion;kgCO2e/passager.km;0.223;180-250 sièges, trajet de 8000-9000 km
+21792;Avion;kgCO2e/passager.km;0.23;plus de 250 sièges, trajet de 8000-9000 km
+21793;Avion;kgCO2e/passager.km;0.216;180-250 sièges, trajet de 9000-10000 km
+21794;Avion;kgCO2e/passager.km;0.223;plus de 250 sièges, trajet de 9000-10000 km
+21795;Avion;kgCO2e/passager.km;0.216;plus de 250 sièges, trajet de 10000-11000 km
+21796;Avion;kgCO2e/passager.km;0.223;plus de 250 sièges, trajet de > 11000 km
+21789;Avion;kgCO2e/passager.km;0.202;180-250 sièges, trajet de 7000-8000 km
+14087;Fioul domestique;kgCO2e/litre;3.25;
+15320;Gaz naturel;kgCO2e/m3;2.15;
+14225;Granulés bois;kgCO2e/kg;0.111;8% d'humidité
+21714;Métro;kgCO2e/passager.km;0.0057;
+21715;RER;kgCO2e/passager.km;0.0057;
+20682;Repas;kgCO2e/repas;2.04;moyen
+20683;Repas;kgCO2e/repas;0.51;végétarien
+21737;TGV;kgCO2e/passager.km;0.00369;
+23605;Totalité des consommations électriques en cuisine;kWh/ménage.an;486.0;consommation moyenne annuelle d'électricité
+23345;Totalité du poste audiovisuel moyenne;kWh/ménage.an;546.0;consommation moyenne annuelle d'électricité
+23359;Totalité du poste informatique moyenne;kWh/ménage.an;396.0;consommation moyenne annuelle d'électricité
+21611;Voiture particulière;kgCO2e/km;0.251;puissance fiscale moyenne, motorisation gazole
+21610;Voiture particulière;kgCO2e/km;0.259;puissance fiscale moyenne, motorisation essence
+11111;Electricité;kgCO2e/kWh;0.0571;mix moyen
+20590;Imprimante;kgCO2e/appareil;110.0;
+20594;Tablette;kgCO2e/appareil;82.8;de moins de 10 pouces
+20606;Imprimante;kgCO2e/appareil;88.0;domicile A4 Inkjet couleur
+20607;Imprimante;kgCO2e/appareil;66.7;domicile A4 laser N&B
+20608;Imprimante;kgCO2e/appareil;184.0;domicile A4 laser couleur
+20609;Imprimante;kgCO2e/appareil;166.0;SFP bureau A4 laser N&B
+20610;Imprimante;kgCO2e/appareil;281.0;SFP bureau A4 laser couleur
+20612;Smartphone;kgCO2e/appareil;30.0;
+20873;Imprimante;kgCO2e/appareil;218.0;MFP A4 laser couleur
+20874;Imprimante;kgCO2e/appareil;452.0;MFP bureau A3 laser N&B
+20875;Imprimante;kgCO2e/appareil;883.0;MFP bureau A3 laser couleur
+23329;Télévision;kWh / (ménage.an);192.0;moyenne
+23330;Télévision;kWh / (ménage.an);307.0;principale
+23331;Télévision;kWh / (ménage.an);47.0;secondaire
+23332;Télévision;kWh / (ménage.an);502.0;plasma
+23333;Télévision;kWh / (ménage.an);228.0;LCD
+23335;Télévision;kWh / (ménage.an);590.0;retroprojecteur
+23346;Ordinateur;kWh / (ménage.an);219.0;domestique + ecran moyenne
+23347;Ordinateur;kWh / (ménage.an);278.0;fixe moyenne
+23348;Ordinateur;kWh / (ménage.an);329.0;fixe principal
+23349;Ordinateur;kWh / (ménage.an);91.0;fixe secondaire
+23354;Ordinateur;kWh / (ménage.an);35.0;portable moyenne
+23355;Ordinateur;kWh / (ménage.an);59.0;portable principal
+23357;Imprimante;kWh / (ménage.an);22.0;consommation moyenne annuelle d'électricité
+23375;Télévision;%;137.0;moyenne
+23376;Télévision;%;100.0;principale
+23377;Télévision;%;37.0;secondaire
+23389;Télévision;kWh / (ménage.an);192.0;consommation moyenne annuelle d'électricité
+23399;Télévision;kWh / (ménage.an);193.0;consommation moyenne annuelle d'électricité
+23415;Télévision;%;95.9;taux équipement
+23435;Télévision;kWh / (ménage.an);193.0;consommation moyenne annuelle d'électricité
+23451;Télévision;%;146.0;taux équipement
+23470;Télévision;kWh / (ménage.an);193.0;consommation moyenne annuelle d'électricité
+23486;Télévision;%;146.0;taux équipement
+23505;Télévision;kWh / (ménage.an);193.0;consommation moyenne annuelle d'électricité
+23521;Télévision;%;88.0;taux équipement
+23541;Télévision;kWh / (ménage.an);193.0;consommation moyenne annuelle d'électricité
+23557;Télévision;%;88.0;taux équipement
+23576;Télévision;%;98.0;moyenne
+23577;Télévision;%;98.0;principale
+23578;Télévision;%;26.0;plasma
+23579;Télévision;%;31.0;LCD
+23584;Ordinateur;%;75.0;fixe principal
+23590;Ordinateur;%;25.4;fixe principal
+23600;Télévision;kWh / (ménage.an);193.0;moyenne
+23601;Télévision;kWh / (ménage.an);193.0;principale
+23614;Télévision;kWh / (ménage.an);193.0;moyenne
+23615;Télévision;kWh / (ménage.an);193.0;principale
+24930;Fromage;kgCO2e/tonne;15040.0;pâte dure
+24931;Fromage;kgCO2e/tonne;7895.0;pâte molle
+24948;Viande de boeuf;kgCO2e/kg de viande net commercialisable;35.3;meat
+25405;Fromage;kgCO2e/kg d'ingrédient en sortie de magasin (poids net);5.6;à pâte dure (type emmental)
+25406;Fromage;kgCO2e/kg d'ingrédient en sortie de magasin (poids net);4.28;à pâte molle (type camenbert)
+25407;Fromage;kgCO2e/kg d'ingrédient en sortie de magasin (poids net);3.61;frais de chèvre
+25408;Fromage;kgCO2e/kg d'ingrédient en sortie de magasin (poids net);3.51;frais, 58% MG
+25452;Légumes (ou fruits);kgCO2e/kg d'ingrédient en sortie de magasin (poids net);1.25;générique, importé par bateau et camion
+25453;Légumes (ou fruits);kgCO2e/kg d'ingrédient en sortie de magasin (poids net);2.24;générique, hors saison, produit sous serre chauffée
+25454;Légumes (ou fruits);kgCO2e/kg d'ingrédient en sortie de magasin (poids net);21.9;générique, importé par avion, saison ou hors-saison
+25455;Légumes (ou fruits);kgCO2e/kg d'ingrédient en sortie de magasin (poids net);0.259;générique, de saison, produit localement
+25549;Fromage;kgCO2e/kg d'ingrédient ingéré;5.6;à pâte dure (type emmental)
+25550;Fromage;kgCO2e/kg d'ingrédient ingéré;4.28;à pâte molle (type camenbert)
+25551;Fromage;kgCO2e/kg d'ingrédient ingéré;3.61;frais de chèvre
+25552;Fromage;kgCO2e/kg d'ingrédient ingéré;3.51;frais, 58% MG
+25596;Légumes (ou fruits);kgCO2e/kg d'ingrédient ingéré;1.29;générique, importé par bateau et camion
+25597;Légumes (ou fruits);kgCO2e/kg d'ingrédient ingéré;2.31;générique, hors saison, produit sous serre chauffée
+25598;Légumes (ou fruits);kgCO2e/kg d'ingrédient ingéré;27.4;générique, importé par avion, saison ou hors-saison
+25599;Légumes (ou fruits);kgCO2e/kg d'ingrédient ingéré;0.267;générique, de saison, produit localement
+26999;Télévision;kgCO2e/unité;6.04;30-40 pouces
+27000;Télévision;kgCO2e/unité;2.41;40-49 pouces
+27001;Télévision;kgCO2e/unité;7.87;49 pouces
+27002;Ordinateur;kgCO2e/unité;1.9;portable
+27003;Ordinateur;kgCO2e/unité;1.76;fixe
+27004;Ordinateur;kgCO2e/unité;7.36;fixe
+27007;Tablette;kgCO2e/unité;0.122;classique
+27008;Tablette;kgCO2e/unité;0.301;mini
+27009;Tablette;kgCO2e/unité;0.916;détachable
+27010;Smartphone;kgCO2e/unité;0.0639;classique
+27011;Smartphone;kgCO2e/unité;0.249;de moins de 4,5 pouces
+27012;Smartphone;kgCO2e/unité;0.236;de 5 pouces
+27013;Smartphone;kgCO2e/unité;0.0714;de plus de 5,5 pouces
+27025;Imprimante;kgCO2e/unité;5.24;jet d'encre
+27026;Imprimante;kgCO2e/unité;13.9;laser
+27027;Imprimante;kgCO2e/unité;4.44;multi-fonction
+27084;Bus;kgCO2e/km.personne;0.0112;RATP
+27085;Bus;kgCO2e/km.personne;0.0106;RATP
+27086;Bus;kgCO2e/km.personne;0.0095;RATP

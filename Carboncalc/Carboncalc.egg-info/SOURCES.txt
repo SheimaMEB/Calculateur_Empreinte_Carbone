@@ -1,0 +1,7 @@
+README.md
+setup.py
+Carboncalc.egg-info/PKG-INFO
+Carboncalc.egg-info/SOURCES.txt
+Carboncalc.egg-info/dependency_links.txt
+Carboncalc.egg-info/requires.txt
+Carboncalc.egg-info/top_level.txt

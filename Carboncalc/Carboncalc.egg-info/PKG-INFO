@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Carboncalc
+Version: 0.1
+Summary: Un package pour calculer les émissions de CO2 basées sur les données de consommation utilisateur
+Home-page: https://votre-repo-url
+Author: Votre Nom
+Author-email: votre.email@example.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Carboncalc
+
+Ce package contient des modules pour collecter des données de consommation utilisateur et calculer les émissions de CO2.
+
+
